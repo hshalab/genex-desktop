@@ -34,7 +34,7 @@ unchanged. Where it disagrees with this preface, this preface wins.
 - Other commands map onto Studio tools as the `genex` skill describes
   (`genex__skill {"name":"genex"}`).
 
-<!-- upstream @genex-ai/cli-demo/templates/skills/genex-monetization/SKILL.md v1.36.17 sha256 a48accb99d8c08bc245b961438ddceed6831dca55fb81f5b58fb0fc70f2ea80c -->
+<!-- upstream @genex-ai/cli-demo/templates/skills/genex-monetization/SKILL.md v1.38.0 sha256 a48accb99d8c08bc245b961438ddceed6831dca55fb81f5b58fb0fc70f2ea80c -->
 ---
 name: genex-monetization
 description: Sell things in a Genex game for Nex, the currency players buy with real money — fixed-price Genex store items (`genex shop add`) by default, dynamic payment requests only for amounts decided while playing. Use when the player asks to sell things, add a shop, monetize, or make the game earn. Carries the hard rules: no paid randomness, no gambling, no donation mechanics, and a real-money price beside every Nex price.

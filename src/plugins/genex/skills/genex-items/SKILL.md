@@ -56,7 +56,7 @@ Where it disagrees with this preface, this preface wins.
   there, then try buying on the published draft (`genex__publish {"operation":"draft"}`). An added
   item reaches this game's store with its next publish (`genex__publish {"operation":"gallery"}`).
 
-<!-- upstream @genex-ai/cli-demo/templates/skills/genex-items/SKILL.md v1.36.17 sha256 e093be967a4e217bf7c6a699615f7a8048e777f96e31ee54faaab90b405708f2 -->
+<!-- upstream @genex-ai/cli-demo/templates/skills/genex-items/SKILL.md v1.38.0 sha256 e093be967a4e217bf7c6a699615f7a8048e777f96e31ee54faaab90b405708f2 -->
 ---
 name: genex-items
 description: Make game items for the Genex store, priced in Nex, and add other creators' shared items to this game. Build the item into the game first, list it as a draft with `genex shop add … --json` (before the game is published it waits as a local draft), apply owned items from getEntitlements() at boot, and integrate a shared item with `genex items add`. Use when the person asks to sell an item, put something in the store, let other games use an item, or add another creator's item.

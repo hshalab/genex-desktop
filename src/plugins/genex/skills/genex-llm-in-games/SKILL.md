@@ -26,7 +26,7 @@ Read the pricing reference with
 
 Other commands map onto Studio tools as the `genex` skill describes (`genex__skill {"name":"genex"}`).
 
-<!-- upstream @genex-ai/cli-demo/templates/skills/genex-llm-in-games/SKILL.md v1.36.17 sha256 18d32f25298790f1efc9dc3d757aa84cf72e63476448cf9fc73c3594584f2135 -->
+<!-- upstream @genex-ai/cli-demo/templates/skills/genex-llm-in-games/SKILL.md v1.38.0 sha256 18d32f25298790f1efc9dc3d757aa84cf72e63476448cf9fc73c3594584f2135 -->
 ---
 name: genex-llm-in-games
 description: Call a language model from inside a running game — an NPC that answers in its own words, a quest written for this save, a judge that reads what the player typed. The PLAYER pays and approves, on a Genex surface the game cannot forge. Covers the two modes (a popup per call, or one standing budget then many silent calls), benchmarking the price before declaring it, the receiver pattern, and honest handling of every refusal.

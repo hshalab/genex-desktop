@@ -125,7 +125,7 @@ it.
 | `not_hosted` | No hosted project yet: the first publish sends it. |
 | `busy` | A publish of this game is running: check `genex__cover {"operation":"status"}` once it is done. |
 
-<!-- upstream @genex-ai/cli-demo/templates/skills/genex-cover/SKILL.md v1.36.17 sha256 4fe35db9a02d707f48581d9e2af6ebaa972cf901e48a0fcd47e754dfc4dd5255 -->
+<!-- upstream @genex-ai/cli-demo/templates/skills/genex-cover/SKILL.md v1.38.0 sha256 4fe35db9a02d707f48581d9e2af6ebaa972cf901e48a0fcd47e754dfc4dd5255 -->
 ---
 name: genex-cover
 description: Make this game's cover — the one real frame its gallery card, game page and every shared link show. Choose or stage its best moment from its own world, models, light and effects (the hero, the action at its peak, the best-lit angle; no HUD, no text, 16:9), shoot several candidates, judge them at card size and send the best. Load once the game looks like itself, before its first publish, and again when its look changes.
